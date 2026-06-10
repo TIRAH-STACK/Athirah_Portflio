@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Athirah Portfolio</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<img src="images/profile.jpg" class="profile">
+
+<h1>Nur Athirah Syahirah Binti Mohd Rizal</h1>
+
+<h3>Cybersecurity Student | Future SOC Analyst</h3>
+
+</header>
+
+<section>
+
+<h2>About Me</h2>
+
+<p>
+Final Year Bachelor of Computer Science (Network Security) student with a strong interest in Security Operations Center (SOC), Digital Forensics, Log Analysis and Network Security.
+</p>
+
+</section>
+
+<section>
+
+<h2>Career Exploration</h2>
+
+<h3>Target Position : SOC Analyst</h3>
+
+<p>
+A SOC Analyst serves as the frontline of an organization's digital defense through continuous monitoring, incident response and threat detection.
+</p>
+
+</section>
+
+<section>
+
+<h2>Technical Skills</h2>
+
+<ul>
+<li>Networking Fundamentals - 80%</li>
+<li>Linux Security - 85%</li>
+<li>SIEM & Log Analysis - 70%</li>
+<li>Wireshark Packet Analysis - 70%</li>
+<li>Incident Detection & Response - 67%</li>
+<li>Network Security - 80%</li>
+<li>Computer Forensics</li>
+<li>Penetration Testing</li>
+</ul>
+
+</section>
+
+<section>
+
+<h2>Soft Skills</h2>
+
+<ul>
+<li>Communication - 90%</li>
+<li>Analytical Thinking - 85%</li>
+<li>Teamwork - 90%</li>
+<li>Time Management - 80%</li>
+<li>Adaptability - 85%</li>
+<li>Stress Management - 88%</li>
+</ul>
+
+</section>
+
+<section>
+
+<h2>Projects</h2>
+
+<div class="card">
+
+<img src="images/fyp.jpg">
+
+<h3>Final Year Project</h3>
+
+<p>Insert FYP description here.</p>
+
+</div>
+
+<div class="card">
+
+<img src="images/autopsy.jpg">
+
+<h3>Digital Evidence Handling</h3>
+
+<p>
+Explored digital forensics principles using Autopsy and evidence preservation techniques.
+</p>
+
+</div>
+
+<div class="card">
+
+<img src="images/vlan.jpg">
+
+<h3>VLAN Network Topology</h3>
+
+<p>
+Designed segmented VLAN architecture using Router-on-a-Stick.
+</p>
+
+</div>
+
+<div class="card">
+
+<img src="images/wireshark.jpg">
+
+<h3>HTTP Authentication Analysis</h3>
+
+<p>
+Captured and analysed HTTP credentials using Wireshark.
+</p>
+
+</div>
+
+<div class="card">
+
+<img src="images/grafana.jpg">
+
+<h3>Monitoring Infrastructure</h3>
+
+<p>
+Prometheus + Grafana monitoring across multiple virtual machines.
+</p>
+
+</div>
+
+<div class="card">
+
+<img src="images/juice.jpg">
+
+<h3>OWASP Juice Shop Pentesting</h3>
+
+<p>
+Identified vulnerabilities and recommended mitigations.
+</p>
+
+</div>
+
+</section>
+
+<section>
+
+<h2>Certifications & Achievements</h2>
+
+<ul>
+
+<li>CCNA Switching Routing & Wireless Essentials</li>
+
+<li>Computer Networking Course - Forziq Sdn Bhd</li>
+
+<li>Dean List Semester 1</li>
+
+<li>Dean List Semester 2</li>
+
+<li>RoboPRO Committee</li>
+
+<li>Tinkercad Workshop Committee</li>
+
+</ul>
+
+</section>
+
+<section>
+
+<h2>Dream Organization</h2>
+
+<h3>Google</h3>
+
+<p>
+I aspire to become a SOC Analyst at Google because it represents one of the world's most advanced cybersecurity environments.
+</p>
+
+</section>
+
+<section>
+
+<h2>Contact</h2>
+
+<p>Email : your_email@gmail.com</p>
+
+<p>GitHub : github.com/yourusername</p>
+
+</section>
+
+</body>
+
+</html>
+
+
